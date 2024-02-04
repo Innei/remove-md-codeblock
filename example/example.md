@@ -8,6 +8,30 @@ https://innei.in/posts/programming/modular-request-data-management-concept
 
 这样的做法是非常简单的。例如在 Markdown 中插入如下的内容。
 
+
+```js
+const a = 1
+```
+
+algoliaSearch
+
+```html
+const a = 1
+```
+
+algoliaSearch
+
+```excalidraw
+const a = 1
+```
+
+```excalidraw2222
+const a = 1
+```
+
+
+aa
+
 ````markdown
 ```excalidraw
 {"type":"excalidraw","version":2,"source":"http://localhost:2323","elements":[{"id":"XoWT6cmhHOi8z5zAAX4jf","type":"rectangle","x":-222.2812271118164,"y":-161.63150024414062,"width":355.21875,"height":239.31640625,"angle":0,"strokeColor":"#1e1e1e","backgroundColor":"transparent","fillStyle":"solid","strokeWidth":2,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"frameId":null,"roundness":{"type":3},"seed":1343987013,"version":38,"versionNonce":982834725,"isDeleted":false,"boundElements":null,"updated":1706977127668,"link":null,"locked":false}],"appState":{"gridSize":null,"viewBackgroundColor":"#ffffff"}}

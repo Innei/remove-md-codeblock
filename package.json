@@ -1,6 +1,6 @@
 {
   "name": "remove-md-codeblock",
-  "version": "0.0.0",
+  "version": "0.0.4",
   "type": "module",
   "description": "todo",
   "author": "Innei",
@@ -51,9 +51,7 @@
   "devDependencies": {
     "@innei/prettier": "0.12.2",
     "tsup": "8.0.1",
-    "typescript": "5.3.3"
-  },
-  "dependencies": {
+    "typescript": "5.3.3",
     "remark-parse": "11.0.0",
     "remark-stringify": "11.0.0",
     "unified": "11.0.4",

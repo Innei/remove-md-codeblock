@@ -1,6 +1,6 @@
 import fs from 'node:fs'
 
-import tr from '../src/index.js'
+import tr from '../src/index.ts'
 
 const __dirname = new URL('.', import.meta.url).pathname
 
